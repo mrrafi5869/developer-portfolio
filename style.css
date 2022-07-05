@@ -51,11 +51,24 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
+#full-stack-developer{
+    border-left: 7px solid gray;
+}
+#baby-web-developer{
+    border-left: 7px solid blue;
+}
+
 /* third section end here */
+/* footer section start here */
+footer p{
+    text-align: center;
+    color: gray;
+}
+/* footer section end here */
